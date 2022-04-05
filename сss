@@ -2,3 +2,4 @@
 .box {bacground-color:#282828;
 height:300px}
 </style>
+.h1 {color:red;}
